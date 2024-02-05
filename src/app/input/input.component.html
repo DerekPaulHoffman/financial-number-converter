@@ -1,0 +1,5 @@
+<form (ngSubmit)="onSubmit()">
+    <input type="text" [(ngModel)]="inputValue" name="financialInput" required>
+    <button type="submit">Submit</button>
+</form>
+<p *ngIf="errorMessage" class="error-message">{{ errorMessage }}</p>

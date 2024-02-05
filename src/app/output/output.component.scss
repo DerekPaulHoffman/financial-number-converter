@@ -1,0 +1,22 @@
+div {
+    display: flex;
+    flex-direction: column;
+  p {
+    text-align: center;
+    font-weight: bold;
+
+    span {
+      color: red;
+    }
+  }
+
+  button {
+    margin: 0 auto;
+    padding: 1rem 2rem;
+    background-color: rgb(122, 185, 159);
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+}

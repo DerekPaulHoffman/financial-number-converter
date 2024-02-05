@@ -1,0 +1,22 @@
+<svg width="200px" height="250px" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <!-- Calculator Body -->
+  <rect x="10" y="10" width="180" height="230" rx="15" ry="15" style="fill: silver; stroke: blue; stroke-width: 2"/>
+
+  <!-- Screen -->
+  <rect x="30" y="30" width="140" height="60" rx="5" ry="5" style="fill: white; stroke: blue; stroke-width: 1"/>
+
+  <!-- Row 1 Buttons -->
+  <circle cx="50" cy="120" r="15" style="fill: blue"/>
+  <circle cx="100" cy="120" r="15" style="fill: blue"/>
+  <circle cx="150" cy="120" r="15" style="fill: blue"/>
+
+  <!-- Row 2 Buttons -->
+  <circle cx="50" cy="170" r="15" style="fill: blue"/>
+  <circle cx="100" cy="170" r="15" style="fill: blue"/>
+  <circle cx="150" cy="170" r="15" style="fill: blue"/>
+
+  <!-- Row 3 Buttons -->
+  <circle cx="50" cy="220" r="15" style="fill: blue"/>
+  <circle cx="100" cy="220" r="15" style="fill: blue"/>
+  <circle cx="150" cy="220" r="15" style="fill: blue"/>
+</svg>
